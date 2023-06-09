@@ -1,0 +1,137 @@
+Indicator Code,Indicator Definition
+AF001,The contractor establishes and maintains a register of patients with atrial fibrillation
+AF006,The percentage of patients with atrial fibrillation in whom stroke risk has been assessed using the CHA2DS2-VASc score risk stratification scoring system in the preceding 12 months (excluding those patients with a previous CHADS2 or CHA2DS2-VASc score of 2 or more)
+AF007,"In those patients with atrial fibrillation with a record of a CHA2DS2-VASc score of 2 or more, the percentage of patients who are currently treated with anticoagulation drug therapy"
+AST005,"The contractor establishes and maintains a register of patients with asthma, aged 6 years or over, excluding patients with asthma who have been prescribed no asthma-related drugs in the preceding 12 months."
+AST006,"The percentage of patients with asthma on the register from 1 April 2020 with either:
+
+1.	A record of spirometry and one other objective test (FeNO or reversibility or variability) between 3 months before or 6 months after diagnosis; or
+
+2.	If newly registered in the preceding 12 months with a diagnosis of asthma recorded on or after 1 April 2020 but no record of objective tests being performed before the date of registration, with a record of spirometry and one other objective test (FeNO or reversibility or variability) recorded within 6 months of registration.     "
+AST007,"The percentage of patients with asthma, on the register, who have had an asthma review in the preceding 12 months that includes an assessment of asthma control using a validated asthma control questionnaire, a recording of the number of exacerbations, an assessment of inhaler technique and a written personalised asthma plan."
+AST008,"The percentage of patients with asthma on the register aged 19 years or under, in whom there is a record of either personal smoking status or exposure to secondhand smoke in the preceding 12 months."
+BP002,The percentage of patients aged 45 or over who have a record of blood pressure in the preceding 5 years
+CAN001,The contractor establishes and maintains a register of all cancer patients defined as a ‘register of patients with a diagnosis of cancer excluding non-melanotic skin cancers diagnosed on or after 1 April 2003’
+CAN004,"The percentage of patients with cancer, diagnosed within the preceding 24 months, who have a patient Cancer Care Review using a structured template recorded as occurring within 12 months of diagnosis."
+CAN005,"The percentage of patients with cancer, diagnosed within the preceding 12 months, who have had the opportunity for a discussion and informed of the support available from primary care, within 3 months of diagnosis."
+CHD001,The contractor establishes and maintains a register of patients with coronary heart disease
+CHD005,"The percentage of patients with coronary heart disease with a record in the preceding 12 months that aspirin, an alternative anti-platelet therapy, or an anti-coagulant is being taken "
+CHD008,"The percentage of patients aged 79 years or under, with coronary heart disease, in whom the last blood pressure reading (measured in the preceding 12 months) is 140/90 mmHg or less."
+CHD009,"The percentage of patients aged 80 years or over, with coronary heart disease, in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less."
+CKD005,The contractor establishes and maintains a register of patients aged 18 or over with CKD with classification of categoris G3a to G5 (previously stage 3 to 5)
+COPD008,"The percentage of patients with COPD and Medical Research Council (MRC) dyspnoea scale ≥3 at any time in the preceding 12 months, with a subsequent record of an offer of referral to a pulmonary rehabilitation programme (excluding those who have previously attended a pulmonary rehabilitation programme)."
+COPD009,"The contractor establishes and maintains a register of:
+
+1.	Patients with a clinical diagnosis of COPD before 1 April 2021; and
+
+2.	Patients with a clinical diagnosis of COPD on or after 1 April 2021 whose diagnosis has been confirmed by a quality assured post-bronchodilator spirometry FEV1/FVC ratio below 0.7 between 3 months before or 6 months after diagnosis (or if newly registered in the preceding 12 months without a record of spirometry having been performed, a record of an FEV1/FVC ratio below 0.7 recorded within 6 months of registration); and
+
+3.	Patients with a clinical diagnosis of COPD on or after 1 April 2021 who are unable to undertake spirometry."
+COPD010,"The percentage of patients with COPD, on the register, who have had a review in the preceding 12 months which included:
+A record of the number of exacerbations 
+AND
+An assessment of breathlessness using the Medical Research Council dyspnoea scale."
+CS005,The percentage of women eligible for screening and aged 25-49 years at the end of the reporting period whose notes record that an adequate cervical screening test has been performed in the preceding 3 years and 6 months.
+CS006,The percentage of women eligible for screening and aged 50-64 years at the end of the reporting period whose notes record that an adequate cervical screening test has been performed in the preceding 5 years and 6 months.
+DEM001,The contractor establishes and maintains a register of patients diagnosed with dementia 
+DEM004,The percentage of patients diagnosed with dementia whose care plan has been reviewed in a face-to-face review in the preceding 12 months
+DEP003,The percentage of patients aged 18 or over  with a new diagnosis of depression in the preceding 1 April to 31 March who have been reviewed not earlier than 10 days after and not later than 56 days after the date of diagnosis
+DM006,"The percentage of patients with diabetes, on the register, with a diagnosis of nephropathy (clinical proteinuria) or micro-albuminuria who are currently treated with an ACE-I (or ARBs)"
+DM012,"The percentage of patients with diabetes, on the register, with a record of a foot examination and risk classification: 1) low risk (normal sensation, palpable pulses), 2) increased risk (neuropathy or absent pulses), 3) high risk (neuropathy or absent pulses plus deformity or skin changes in previous ulcer) or 4) ulcerated foot within the preceding 12 months"
+DM014,"The percentage of patients newly diagnosed with diabetes, on the register, in the  preceding 1 April to 31 March who have a record of being referred to a structured education programme within 9 months after entry on to the diabetes register"
+DM017,"The contractor establishes and maintains a register of all patients aged 17 or over with diabetes mellitus, which specifies the type of diabetes where a diagnosis has been confirmed"
+DM019,"The percentage of patients with diabetes, on the register, without moderate or severe frailty in whom the last blood pressure reading (measured in the preceding 12 months) is 140/80 mmHg or less."
+DM020,"The percentage of patients with diabetes, on the register, without moderate or severe frailty in whom the last IFCC-HbA1c is 58 mmol/mol or less in the preceding 12 months."
+DM021,"The percentage of patients with diabetes, on the register, with moderate or severe frailty in whom the last IFCC-HbA1c is 75 mmol/mol or less in the preceding 12 months."
+DM022,"The percentage of patients with diabetes, on the register, aged 40 years or over, with no history of CVD and without moderate or severe frailty, who are currently treated with a statin (excluding patients with type 2 diabetes and a CVD risk score of <10% recorded in the preceding 3 years)."
+DM023,"The percentage of patients with diabetes, on the register, and a history of CVD (excluding haemorrhagic stroke) who are currently treated with a statin."
+EP001,The contractor establishes and maintains a register of patients aged 18 or over receiving drug treatment for epilepsy
+HF001,The contractor establishes and maintains a register of patients with heart failure
+HF003,"In those patients with a current diagnosis of heart failure due to left ventricular systolic dysfunction, the percentage of patients who are currently treated with an ACE-I or ARB"
+HF005,"The percentage of patients with a diagnosis of heart failure on or after 1 April 2020 which:
+1.	Has been confirmed by an echocardiogram or by specialist assessment between 3 months before or 6 months after entering on to the register; or
+2.	If newly registered in the preceding 12 months, with no record of the diagnosis originally being confirmed by echocardiogram or specialist assessment, a record of an echocardiogram or a specialist assessment within 6 months of the date of registration."
+HF006,"The percentage of patients with a diagnosis of heart failure due to left ventricular systolic dysfunction, who are currently treated with a beta-blocker licensed for heart failure."
+HF007,"The percentage of patients with a diagnosis of heart failure on the register, who have had a review in the preceding 12 months, including an assessment of functional capacity and a review of medication to ensure medicines optimisation at maximal tolerated doses."
+HYP001,The contractor establishes and maintains a register of patients with established hypertension
+HYP003,"The percentage of patients aged 79 years or under, with hypertension, in whom the last blood pressure reading (measured in the preceding 12 months) is 140/90 mmHg or less."
+HYP007,"The percentage of patients aged 80 years or over, with hypertension, in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less."
+LD004,The contractor establishes and maintains a register of patients with learning disabilities
+MH001,"The contractor establishes and maintains a register of patients with schizophrenia, bipolar affective disorder and other psychoses and other patients on lithium therapy."
+MH002,"The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a comprehensive care plan documented in the record, in the preceding 12 months, agreed between individuals, their family and/or carers as appropriate"
+MH003,"The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a record of blood pressure in the preceding 12 months"
+MH006,"The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a record of BMI in the preceding 12 months."
+MH007,"The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a record of alcohol consumption in the preceding 12 months."
+MH011,"The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a record of a lipid profile in the preceding 12 months (in those patients currently prescribed antipsychotics, and/or have pre-existing cardiovascular conditions, and/or smoke, and/or are overweight (BMI of >=23 kg/m2 or >=25 kg/m2 if ethnicity is recorded as White)) or preceding 24 months for all other patients"
+MH012,"The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a record of blood glucose or HbA1c in the preceding 12 months"
+NDH001,The percentage of patients with non-diabetic hyperglycaemia who have had an HbA1c or fasting blood glucose performed in the preceding 12 months.
+OB002,The contractor establishes and maintains a register of patients aged 18 years or over with a BMI ≥30 in the preceding 12 months
+OST004,"The contractor establishes and maintains a register of patients: 
+1. Aged 50 or over and who have not attained  the age of 75 with a record of a fragility fracture on or after 1 April 2012 and a diagnosis of osteoporosis confirmed on DXA scan, and 
+2. Aged 75 or over with a record of a fragility fracture on or after 1 April 2014 and a diagnosis of osteoperosis"
+PAD001,The contractor establishes and maintains a register of patients with peripheral arterial disease
+PC001,The contractor establishes and maintains a register  of all patients in need of palliative care/support irrespective of age
+QIECD005, The contractor can demonstrate continuous quality improvement activity focused upon early cancer diagnosis as specified in the QOF guidance. 
+QIECD006,The contractor has participated in network diagnosis as specified in the QOF guidance. This would usually include participating in a minimum of two peer review meetings 
+QILD007,The contractor can demonstrate continuous quality improvement activity focused on care of patients with a learning disability as specified in the QOF guidance
+QILD008,The contractor has participated in network activity to regularly share and discuss learning from quality improvement activity focused on the care of patients with a learning disability as specified in the QOF guidance. This would usually include participating in a minimum of two network peer review meetings
+RA001,The contractor establishes and maintains a register of patients aged 16 or over with rheumatoid arthritis
+RA002,"The percentage of patients with rheumatoid arthritis, on the register, who have had a face-to-face annual review in the preceding 12 months"
+SMOK002,"The percentage of patients with any or any combination of the following conditions: CHD, PAD, stroke or TIA, hypertension, diabetes, COPD, CKD, asthma, schizophrenia, bipolar affective disorder or other psychoses whose notes record smoking status in the preceding 12 months"
+SMOK004,The percentage of patients aged 15 or over who are recorded as current smokers who have a record of an offer of support and treatment within the preceding 24 months
+SMOK005,"The percentage of patients with any or any combination of the following conditions: CHD, PAD, stroke or TIA, hypertension, diabetes, COPD, CKD, asthma, schizophrenia, bipolar affective disorder or other psychoses who are recorded as current smokers who have a record of an offer of support and treatment within the preceding 12 months"
+STIA001,The contractor establishes and maintains a register of patients with stroke or TIA
+STIA007,"The percentage of patients with a stroke shown to be non-haemorrhagic, or a history of TIA, who have a record in the preceding 12 months that an anti-platelet agent, or an anti-coagulant is being taken "
+STIA010,"The percentage of patients aged 79 years or under, with a history of stroke or TIA, in whom the last blood pressure reading (measured in the preceding 12 months) is 140/90 mmHg or less."
+STIA011,"The percentage of patients aged 80 years or over, with a history of stroke or TIA, in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less."
+VI001,"The percentage of babies who reached 8 months old in the preceding 12 months, who have received at least 3 doses of a diphtheria, tetanus and pertussis containing vaccine before the age of 8 months."
+VI002,"The percentage of children who reached 18 months old in the preceding 12 months, who have received at least 1 dose of MMR between the ages of 12 and 18 months."
+VI003,"The percentage of children who reached 5 years old in the preceding 12 months, who have received a reinforcing dose of DTaP/IPV and at least 2 doses of MMR between the ages of 1 and 5 years."
+VI004,"The percentage of patients who reached 80 years old in the preceding 12 months, who have received a shingles vaccine between the ages of 70 and 79 years."
+CAN003,"The percentage of patients with cancer, diagnosed within the preceding 15 months, who have a patient review recorded as occurring within 6 months of the date of diagnosis, NICE 2012 menu ID: NM62"
+CHD007,The percentage of patients with coronary heart disease who have had influenza immunisation in the preceding 1 August to 31 March
+COPD007,The percentage of patients with COPD who have had influenza immunisation in the preceding 1 August to 31 March
+DM018,"The percentage of patients with diabetes, on the register, who have had influenza immunisation in the preceding 1 August to 31 March"
+STIA009,The percentage of patients with stroke or TIA who have had influenza immunisation in the preceding 1 August to 31 March
+AST001,"The contractor establishes and maintains a register of patients with asthma, excluding patients with asthma who have been prescribed no asthma-related drugs in the preceding 12 months"
+AST002,"The percentage of patients aged 8 or over with asthma (diagnosed on or after 1 April 2006), on the register, with measures of variability or reversibility recorded between 3 months before or anytime after diagnosis"
+AST003,"The percentage of patients with asthma, on the register, who have had an asthma review in the preceding 12 months that includes an assessment of asthma control using the 3 RCP questions, NICE 2011 menu ID: NM23"
+AST004,"The percentage of patients with asthma aged 14 or over and who have not attained the age of 20, on the register, in whom there is a record of smoking status in the preceding 12 months"
+COPD001,The contractor establishes and maintains a register of patients with COPD
+COPD002,The percentage of patients with COPD (diagnosed on or after 1 April 2011) in whom the diagnosis has been confirmed by post bronchodilator spirometry between 3 months before and 12 months after entering on to the register
+COPD003,"The percentage of patients with COPD who have had a review, undertaken by a healthcare professional, including an assessment of breathlessness using the Medical Research Council dyspnoea scale in the preceding 12 months"
+CVDPP001,"In those patients with a new diagnosis of hypertension aged 30 or over and who have not attained the age of 75, recorded between the preceding 1 April to 31 March (excluding those with pre-existing CHD, diabetes, stroke and/or TIA), who have a recorded CVD risk assessment score (using an assessment tool agreed with the NHS CB) of =20% in the preceding 12 months: the percentage who are currently treated with statins, NICE 2011 menu ID: NM26"
+HF002,The percentage of patients with a diagnosis of heart failure (diagnosed on or after 1 April 2006) which has been confirmed by an echocardiogram or by specialist assessment 3 months before or 12 months after entering on to the register
+HF004,"In those patients with a current diagnosis of heart failure due to left ventricular systolic dysfunction who are currently treated with an ACE-I or ARB, the percentage of patients who are additionally currently treated with a beta-blocker licensed for heart failure"
+QI001,The contractor can demonstrate continuous quality improvement activity focused upon prescribing safety as specified in the QOF guidance.
+QI002,The contractor has participated in network activity to regularly share and discuss learning from quality improvement activity as specified in the QOF guidance. This would usually include participating in a minimum of two peer review meetings.
+QI003,The contractor can demonstrate continuous quality improvement activity focused on end of life care as specified in the QOF guidance
+QI004,The contractor has participated in network activity to regularly share and discuss learning from quality improvement activity as specified in the QOF guidance. This would usually include participating in a minimum of two network peer review meetings.
+CHD002,The percentage of patients with coronary heart disease in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less
+CON001,"The contractor establishes and maintains a register of women aged 54 or under who have been prescribed any method of contraception at least once in the last year, or other clinically appropriate interval e.g. last 5 years for an IUS"
+CON003,"The percentage of women, on the register, prescribed emergency hormonal contraception one or more times in the preceding 12 months by the contractor who have received information from the contractor about long acting reversible methods of contraception at the time of or within 1 month of the prescription"
+COPD004,The percentage of patients with COPD with a record of FEV1 in the preceding 12 months
+COPD005,"The percentage of patients with COPD and Medical Research Council dyspnoea grade ≥3 at any time in the preceding 12 months, with a record of oxygen saturation value within the preceding 12 months, NICE 2012 menu ID: NM63"
+CS001,"The contractor has a protocol that is in line with national guidance agreed with the NHS CB for the management of cervical screening, which includes staff training, management of patient call/recall, exception reporting and the regular monitoring of inadequate sample rates"
+CS002,The percentage of women aged 25 or over and who have not attained the age of 65 whose notes record that a cervical screening test has been performed in the preceding 5 years
+CS004,The contractor has a policy for auditing its cervical screening service and performs an audit of inadequate cervical screening tests in relation to individual sample-takers at least every 2 years
+DEM005,"The percentage of patients with a new diagnosis of dementia recorded in the preceding 1 April to 31 March with a record of FBC, calcium, glucose, renal and liver function, thyroid function tests, serum vitamin B12 and folate levels recorded between 12 months before or 6 months after entering on to the register, NICE 2010 menu ID: NM09"
+DM002,"The percentage of patients with diabetes, on the register, in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less, NICE 2010 menu ID: NM01"
+DM003,"The percentage of patients with diabetes, on the register, in whom the last blood pressure reading (measured in the preceding 12 months) is 140/80 mmHg or less, NICE 2010 menu ID: NM02"
+DM004,"The percentage of patients with diabetes, on the register, whose last measured total cholesterol (measured within the preceding 12 months) is 5 mmol/l or less"
+DM007,"The percentage of patients with diabetes, on the register, in whom the last IFCC-HbA1c is 59 mmol/mol or less in the preceding 12 months, NICE 2010 menu ID: NM14"
+DM008,"The percentage of patients with diabetes, on the register, in whom the last IFCC-HbA1c is 64 mmol/mol or less in the preceding 12 months"
+DM009,"The percentage of patients with diabetes, on the register, in whom the last IFCC-HbA1c is 75 mmol/mol or less in the preceding 12 months"
+HYP006,The percentage of patients with hypertension in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less
+MH008,"The percentage of women aged 25 or over and who have not attained the age of 65 with schizophrenia, bipolar affective disorder and other psychoses whose notes record that a cervical screening test has been performed in the preceding 5 years, NICE 2010 menu ID: NM20"
+MH009,"The percentage of patients on lithium therapy with a record of serum creatinine and TSH in the preceding 9 months, NICE 2010 menu ID: NM21"
+MH010,"The percentage of patients on lithium therapy with a record of lithium levels in the therapeutic range in the preceding 4 months, NICE 2010 menu ID: NM22"
+OST002,"The percentage of patients aged 50 or over and who have not attained the age of 75, with a fragility fracture on or after 1 April 2012, in whom osteoporosis is confirmed on DXA scan, who are currently treated with an appropriate bone-sparing agent, NICE 2011 menu ID: NM30"
+OST005,"The percentage of patients aged 75 or over with a record of a fragility fracture on or after 1 April 2014 and a diagnosis of osteoporosis, who are currently treated with an appropriate bone-sparing agent, NICE 2011 menu ID: NM31"
+PAD002,"The percentage of patients with peripheral arterial disease in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less, NICE 2011 menu ID: NM34"
+PAD004,"The percentage of patients with peripheral arterial disease with a record in the preceding 12 months that aspirin or an alternative anti-platelet is being taken, NICE 2011 menu ID: NM33"
+PC002,The contractor has regular (at least 3 monthly) multi-disciplinary case review meetings where all patients on the palliative care register are discussed
+SMOK003,The contractor supports patients who smoke in stopping smoking by a strategy which includes providing literature and offering appropriate therapy
+STIA003,The percentage of patients with a history of stroke or TIA in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less
+STIA008,The percentage of patients with a stroke or TIA (diagnosed on or after 1 April 2014) who have a record of a referral for further investigation between 3 months before or 1 month after the date of the latest recorded stroke or the first TIA
+LD003,The contractor establishes and maintains a register of patients with learning disabilities

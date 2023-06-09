@@ -1,0 +1,188 @@
+QMainWindow
+{
+background-color: #003996;
+}
+
+QPushButton, QGroupBox, QLabel
+{
+border-radius: 10px;
+}
+
+QLabel
+{
+background-color: #06244F;
+color: white;
+font-size: 12pt;
+font-family: Arial;
+border: 1px solid black;
+}
+
+QGroupBox
+{
+border-width: 2px;
+border-style: solid;
+border-color: orange;
+background-color: #06244F;
+margin-top: 0px;
+font-size: 11pt;
+font-family: Arial;
+border-radius: 10px;
+padding-top: 15px;
+}
+
+QGroupBox::title
+{
+padding-top: 2px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 5px;
+border-top-left-radius: 9px;
+border-bottom-right-radius: 9px;
+background-color: orangered;
+color: antiquewhite;
+}
+
+QGroupBox#MainBox
+{
+font-family: Arial;
+color: black;
+font-size: 14pt;
+font-weight: normal;
+}
+
+QGroupBox::title#MainBox
+{
+padding-top: 2px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 5px;
+border-top-left-radius: 9px;
+border-bottom-right-radius: 9px;
+background-color: orangered;
+color: antiquewhite;
+}
+
+QPushButton
+{
+background-color: orangered;
+border-style: outset;
+border-width: 4px;
+border-color: orange;
+font-size: 14pt;
+color: antiquewhite;
+font-family: Arial;
+}
+
+QPushButton:hover
+{
+background-color: coral;
+}
+
+QPushButton:pressed
+{
+background-color: darkblue;
+border-style: inset;
+border-width: 4px;
+border-color: blue;
+}
+
+QPushButton:checked
+{
+color: white;
+border-style: inset;
+border-width: 4px;
+border-color: royalblue;
+background-color: #21298E;
+}
+
+
+QPushButton#exportButton
+{
+background-color: limegreen;
+border-style: outset;
+border-width: 4px;
+border-color: green;
+}
+
+QPushButton:hover#exportButton
+{
+background-color: lawngreen;
+}
+
+QPushButton:pressed#exportButton
+{
+background-color: darkolivegreen;
+border-style: inset;
+border-width: 4px;
+border-color: green;
+}
+
+QPushButton:checked#exportButton
+{
+color: whitesmoke;
+border-style: inset;
+border-width: 4px;
+border-color: green;
+background-color: lightslategrey;
+}
+
+QPushButton:disabled#exportButton
+{
+color: whitesmoke;
+border-style: inset;
+border-width: 4px;
+border-color: green;
+background-color: lightslategrey;
+}
+
+QCheckBox
+{
+background-color: #06244F;
+color: white;
+font-family: Arial;
+font-size: 12pt;
+}
+
+QCheckBox::indicator::unchecked::hover
+{
+background-color: #6995D5;
+}
+
+QComboBox
+{
+font-size: 11pt;
+}
+
+QRadioButton
+{
+padding: 0px;
+text-align: left;
+color: white;
+font-size: 9pt;
+font-family: Arial;
+}
+
+QRadioButton:Disabled
+{
+color: dimgrey;
+}
+
+QRadioButton#AchPrev
+{
+font-family: Arial;
+font-size: 12pt;
+font-weight: bold;
+}
+
+QMessageBox
+{
+font-size:15pt;
+font-weight: bold;
+}
+
+QProgressBar
+{
+color: white;
+}
+
+
